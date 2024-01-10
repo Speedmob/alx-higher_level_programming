@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""a JSON file-writing function."""
+"""a JSON file writing function."""
 import json
 
 
